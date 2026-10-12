@@ -2,7 +2,7 @@
 
 ![Preview](image.png)
 
-Script `.bat` untuk auto setup Windows dalam sekali jalan: install aplikasi penting + buka port firewall, tanpa perlu winget.
+Script `.bat` untuk auto setup Windows dalam sekali jalan: install aplikasi penting + buka port firewall, tanpa perlu winget.s
 
 ## Fitur
 
