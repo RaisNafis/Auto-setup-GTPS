@@ -30,7 +30,7 @@ node -v
 python --version
 ```
 
-Untuk MSVC, gunakan **x64 Native Tools Command Prompt for VS 2022**, lalu jalankan `cl`.
+Untuk MSVC, gunakan **x64 Native Tools Command Prompt for VS 2022**, lalu jalankan `cl`..
 
 ## Smart Filtering (Skip Otomatis)
 
