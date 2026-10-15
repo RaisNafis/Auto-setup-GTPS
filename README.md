@@ -6,7 +6,7 @@ Script `.bat` untuk auto setup Windows dalam sekali jalan: install aplikasi pent
 
 ## Fitur
 
-| # | Komponen | Metode |
+| # | Komponen | Metode |a
 |---|----------|--------|
 | 1 | Google Chrome | MSI enterprise offline (`msiexec /qn`) |
 | 2 | WinRAR 7.11 | Silent install `/S` |
